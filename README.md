@@ -18,4 +18,4 @@
 ```
 ### Launching test application -
 
-    $DMTCP_ROOT/bin/dmtcp_launch --with-plugin plugin.so ./c_mysql3 [args]
+    $DMTCP_ROOT/bin/dmtcp_launch --with-plugin plugin.so ./c_mysql3 <host> <username> <password> <database> <port>
